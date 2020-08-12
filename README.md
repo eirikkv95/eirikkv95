@@ -8,7 +8,10 @@
 - ⚡️ Fun Fact: I'm interested in japanese culture 🇯🇵
  
  ### Connect with me:
-[<img align="left" alt="odelagt.netlify.com" width="22px" src="">]
+ <img align="left" src="images/linkedin.svg" width="22px">
+ <img align="left" src="images/twitter.svg" width="22px">
+ 
+ <br>
 
 ### Languages and Tools:
 
