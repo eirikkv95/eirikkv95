@@ -3,7 +3,9 @@
 ## I started my developer journey in 2017!
 - 👨‍🎓 I have a bachelors degree in web development
 - 👨‍💻 I'm currently looking for a job
-- 🇯🇵 Fun Fact: I'm interested in japanese culture
+- 💬 If you have any questions, feel free to contact me
+- 📫 How to reach me : 
+- ⚡️ Fun Fact: I'm interested in japanese culture 🇯🇵
  
  ### Connect with me:
 [<img align="left" alt="odelagt.netlify.com" width="22px" src="">]
