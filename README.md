@@ -9,17 +9,19 @@
 
  
  ### Connect with me:
-![twitter](./images/twitter.png)
-[<img src="./images/linkedin.png">][linkedin]
+![Twitter](https://github.com/eirikkv95/eirikkv95/blob/master/images/twitter.png?raw=true)
+![LinkedIn](https://github.com/eirikkv95/eirikkv95/blob/master/images/linkedin.png?raw=true)
 
-![for twitter](https://github.com/eirikkv95/eirikkv95/master/images/twitter.png?raw=true)
-![alt text](https://github.com/eirikkv95/eirikkv95/blob/master/images/css.png?raw=true)
+
 <br>
 
 
 ### Languages and Tools:
-(./images/twitter.png)
-<img src="./images/vscode.png"/>
+![HTML](https://github.com/eirikkv95/eirikkv95/blob/master/images/html.png?raw=true)
+![css](https://github.com/eirikkv95/eirikkv95/blob/master/images/css.png?raw=true)
+![sass](https://github.com/eirikkv95/eirikkv95/blob/master/images/sass.png?raw=true)
+![js](https://github.com/eirikkv95/eirikkv95/blob/master/images/js.png?raw=true)
+![react](https://github.com/eirikkv95/eirikkv95/blob/master/images/react.png?raw=true)
 
 
 
