@@ -11,7 +11,7 @@
  ### Connect with me:
  [<img align="left" src="images/linkedin.svg" width="22px">][linkedin]
  [<img align="left" src="images/twitter.svg" width="22px">][twitter]
- 
+    
 <br>
 
 ### Languages and Tools:
