@@ -9,12 +9,13 @@
 
  
  ### Connect with me:
-[<img src="./images/twitter.png">][twitter]
+![twitter](./images/twitter.png)
 [<img src="./images/linkedin.png">][linkedin]
  
 <br>
 
 ### Languages and Tools:
+(./images/twitter.png)
 <img src="./images/vscode.png"/>
 
 
