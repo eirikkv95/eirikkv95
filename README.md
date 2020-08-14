@@ -11,16 +11,16 @@
  ### Connect with me:
  [<img align="left" src="images/linkedin.svg" width="22px">][linkedin]
  [<img align="left" src="images/twitter.svg" width="22px">][twitter]
-    
+ 
 <br>
 
 ### Languages and Tools:
-<img align="left" alt="visual studio code" src="images/vsCode.svg"  width="40px">
-<img align="left" alt="html" src="images/html-5.svg" width="40px">
-<img align="left" alt="css" src="images/css.svg" width="40px">
-<img align="left" alt="javascript" src="images/javascript.svg" width="40px">
-<img align="left" alt="sass" src="images/sass.svg" width="40px">
-<img align="left" alt="react" src="images/react.svg" width="40px">
+<img align="left" alt="visual studio code" src="./images/vsCode.svg"  width="40px">
+<img align="left" alt="html" src="./images/html-5.svg" width="40px">
+<img align="left" alt="css" src="./images/css.svg" width="40px">
+<img align="left" alt="javascript" src="./images/javascript.svg" width="40px">
+<img align="left" alt="sass" src="./images/sass.svg" width="40px">
+<img align="left" alt="react" src="./images/react.svg" width="40px">
 
 
 
