@@ -11,8 +11,11 @@
  ### Connect with me:
 ![twitter](./images/twitter.png)
 [<img src="./images/linkedin.png">][linkedin]
- 
+
+![for twitter](https://github.com/eirikkv95/eirikkv95/master/images/twitter.png?raw=true)
+![alt text](https://github.com/eirikkv95/eirikkv95/blob/master/images/css.png?raw=true)
 <br>
+
 
 ### Languages and Tools:
 (./images/twitter.png)
