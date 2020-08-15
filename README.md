@@ -1,4 +1,4 @@
-### Hello there! I'm Eirik Kalvø Vattøy - [odelagt][website] 👋
+### Hello there! I'm Eirik Kalvø Vattøy - [ØD][website] 👋
 
 ## I started my developer journey in 2017!
 - 👨‍🎓 I have a bachelors degree in web development
