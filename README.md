@@ -19,7 +19,7 @@
 ![css](https://github.com/eirikkv95/eirikkv95/blob/master/images/css.png?raw=true)
 ![sass](https://github.com/eirikkv95/eirikkv95/blob/master/images/sass.png?raw=true)
 ![js](https://github.com/eirikkv95/eirikkv95/blob/master/images/js.png?raw=true)
-![react](https://github.com/eirikkv95/eirikkv95/blob/master/images/react.png?raw=true)
+<img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
  
 
 
