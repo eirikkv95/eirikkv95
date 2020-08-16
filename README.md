@@ -25,8 +25,8 @@
 
 <details>
  <summary>
- github-readme-stats-git-master.eirikvattoy.vercel.app
-![Anurag's github stats](https://github-readme-stats-git-master.eirikvattoy.vercel.app/api?username=eirikkv95&show_icons=true&theme=radical)
+
+![Eirik's Github stats](https://github-readme-stats-git-master.eirikvattoy.vercel.app/api?username=eirikkv95&show_icons=true&theme=radical)
  </summary>
  </details>
 
