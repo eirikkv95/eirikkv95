@@ -23,7 +23,12 @@
 <img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
  
 
-
+<details>
+ <summary>
+ github-readme-stats-git-master.eirikvattoy.vercel.app
+![Anurag's github stats](https://github-readme-stats-git-master.eirikvattoy.vercel.app/api?username=eirikkv95&show_icons=true&theme=radical)
+ </summary>
+ </details>
 
 
 [Vue]: https://vuejs.org/
