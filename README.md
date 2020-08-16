@@ -15,10 +15,9 @@
 👔 [linkedin][linkedin]
 
 ### Languages and Tools:
-![HTML](https://github.com/eirikkv95/eirikkv95/blob/master/images/html.png?raw=true)
-![css](https://github.com/eirikkv95/eirikkv95/blob/master/images/css.png?raw=true)
-![sass](https://github.com/eirikkv95/eirikkv95/blob/master/images/sass.png?raw=true)
-![js](https://github.com/eirikkv95/eirikkv95/blob/master/images/js.png?raw=true)
+<img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+<img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+<img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/>
 <img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
  
 
