@@ -2,7 +2,7 @@
 
 ## I started my developer journey in 2017!
 - 👨‍🎓 I have a bachelors degree in web development
-- 🧠 Learning [Vue][Vue] and [Tailwind][Tailwind]
+- 🧠 Learning [Tailwind][Tailwind]
 - 👨‍💻 I'm currently looking for a job
 - 💬 If you have any questions, feel free to contact me
 - 📫 How to reach me : [@vattoy95][twitter]
