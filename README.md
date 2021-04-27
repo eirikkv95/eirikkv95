@@ -3,7 +3,6 @@
 ## I started my developer journey in 2017!
 - 👨‍🎓 I have a bachelors degree in web development
 - 🧠 Learning [Tailwind][Tailwind]
-- 👨‍💻 No longer looking for a job 😁🌊
 - 💬 If you have any questions, feel free to contact me
 - 📫 How to reach me : [@vattoy95][twitter]
 - ⚡️ Fun Fact: I'm interested in japanese culture 🇯🇵
