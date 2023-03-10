@@ -2,10 +2,11 @@
 
 ## I started my developer journey in 2017!
 - 👨‍🎓 I have a bachelors degree in web development
-- 🧠 GatsbyJs 
+- 🧠 GatsbyJs and starting to work with nextjs
 - 💬 If you have any questions, feel free to contact me
 - 📫 How to reach me : [@vattoy95][twitter]
 - ⚡️ Fun Fact: I'm interested in japanese culture 🇯🇵
+- 🧑‍💼 Working at Noa Ignite 🔥
 
  ### Connect with me:
 🏡 [website][website] **|** 
